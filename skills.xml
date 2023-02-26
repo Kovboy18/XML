@@ -1,0 +1,11 @@
+<skills total="3">
+<api>postman</api>
+<json>notepad</json>
+<database>
+<mysql name="sql"/>
+<plsql name="sql"/>
+<pssql name ="sql"/>
+</database>
+<myname>ivan</myname>
+</skills>
+
